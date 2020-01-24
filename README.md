@@ -4,6 +4,11 @@
 **Portfolio for everyone!** 
 Live Preview - [Click Here](http://thevipinmishra.github.io/theportfolio)
 
+## Preview
+
+![thefolio preview](https://raw.githubusercontent.com/thevipinmishra/theportfolio/master/preview.png "thefolio preview")
+
+
 ## Folder Structure
 
  - assets - fonts, icons and images.
