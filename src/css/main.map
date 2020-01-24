@@ -1,0 +1,18 @@
+{
+	"version": 3,
+	"file": "main.css",
+	"sources": [
+		"../scss/main.scss",
+		"../scss/_style.scss",
+		"../scss/_reset.scss",
+		"../scss/_screen.scss"
+	],
+	"sourcesContent": [
+		"@import 'style';\r\n\r\n@import 'screen';",
+		"@import 'reset';\r\n\r\n",
+		"/*! minireset.css v0.0.6 | MIT License | github.com/jgthms/minireset.css */html,body,p,ol,ul,li,dl,dt,dd,blockquote,figure,fieldset,legend,textarea,pre,iframe,hr,h1,h2,h3,h4,h5,h6{margin:0;padding:0}h1,h2,h3,h4,h5,h6{font-size:100%;font-weight:normal}ul{list-style:none}button,input,select,textarea{margin:0}html{box-sizing:border-box}*,*::before,*::after{box-sizing:inherit}img,video{height:auto;max-width:100%}iframe{border:0}table{border-collapse:collapse;border-spacing:0}td,th{padding:0}td:not([align]),th:not([align]){text-align:left}",
+		""
+	],
+	"names": [],
+	"mappings": "AEAA,2EAA2E;;AAAA,AAAA,IAAI,EAAC,IAAI,EAAC,CAAC,EAAC,EAAE,EAAC,EAAE,EAAC,EAAE,EAAC,EAAE,EAAC,EAAE,EAAC,EAAE,EAAC,UAAU,EAAC,MAAM,EAAC,QAAQ,EAAC,MAAM,EAAC,QAAQ,EAAC,GAAG,EAAC,MAAM,EAAC,EAAE,EAAC,EAAE,EAAC,EAAE,EAAC,EAAE,EAAC,EAAE,EAAC,EAAE,EAAC,EAAE,CAAA;EAAC,MAAM,EAAC,CAAC;EAAC,OAAO,EAAC,CAAC;CAAE;;;AAAD,AAAA,EAAE,EAAC,EAAE,EAAC,EAAE,EAAC,EAAE,EAAC,EAAE,EAAC,EAAE,CAAA;EAAC,SAAS,EAAC,IAAI;EAAC,WAAW,EAAC,MAAM;CAAE;;;AAAD,AAAA,EAAE,CAAA;EAAC,UAAU,EAAC,IAAI;CAAE;;;AAAD,AAAA,MAAM,EAAC,KAAK,EAAC,MAAM,EAAC,QAAQ,CAAA;EAAC,MAAM,EAAC,CAAC;CAAE;;;AAAD,AAAA,IAAI,CAAA;EAAC,UAAU,EAAC,UAAU;CAAE;;;AAAD,AAAA,CAAC,EAAC,CAAC,AAAA,QAAQ,EAAC,CAAC,AAAA,OAAO,CAAA;EAAC,UAAU,EAAC,OAAO;CAAE;;;AAAD,AAAA,GAAG,EAAC,KAAK,CAAA;EAAC,MAAM,EAAC,IAAI;EAAC,SAAS,EAAC,IAAI;CAAE;;;AAAD,AAAA,MAAM,CAAA;EAAC,MAAM,EAAC,CAAC;CAAE;;;AAAD,AAAA,KAAK,CAAA;EAAC,eAAe,EAAC,QAAQ;EAAC,cAAc,EAAC,CAAC;CAAE;;;AAAD,AAAA,EAAE,EAAC,EAAE,CAAA;EAAC,OAAO,EAAC,CAAC;CAAE;;;AAAD,AAAA,EAAE,AAAA,IAAK,EAAA,AAAA,KAAC,AAAA,IAAQ,EAAE,AAAA,IAAK,EAAA,AAAA,KAAC,AAAA,GAAO;EAAC,UAAU,EAAC,IAAI;CAAE"
+}

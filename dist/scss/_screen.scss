@@ -1,0 +1,85 @@
+@media (min-width: 640px) {
+  .contact__wrap {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+}
+
+@media (min-width: 768px) {
+  .wrap {
+    max-width: 700px;
+  }
+}
+
+/* Large (lg) */
+@media (min-width: 1024px) {
+  .wrap.padded {
+    padding-left: 0;
+    padding-right: 0;
+  }
+
+  .about__wrap {
+    flex-basis: 55%;
+  }
+
+  .about {
+    .about__avatar {
+      flex-basis: 40%;
+    }
+  }
+
+  .about__inner {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+
+  .skills__grid {
+    grid-template-columns: 1fr 1fr;
+  }
+
+  .projects__grid {
+    grid-template-columns: 1fr 1fr 1fr;
+  }
+
+  .people {
+    img {
+      height: 80px;
+      width: 80px;
+    }
+  }
+
+  .review__text {
+    font-size: 1rem;
+  }
+}
+
+@media (min-width: 1200px) {
+  .wrap {
+    max-width: 940px;
+  }
+
+  header {
+    padding: 5rem 0;
+
+    .branding {
+      font-size: 3rem;
+    }
+  }
+
+  .about {
+    .about__avatar {
+      top: -4rem;
+      flex-basis: 50%;
+    }
+  }
+
+  .about__wrap {
+    flex-basis: 60%;
+  }
+
+  .skills__grid {
+    grid-template-columns: repeat(3, 1fr);
+  }
+}

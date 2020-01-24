@@ -1,0 +1,83 @@
+/* VIPReset.css - https://github.com/thevipinmishra/VIPReset */
+html {
+  height: 100%;
+  box-sizing: border-box;
+  -webkit-text-size-adjust: 100%;
+  -webkit-tap-highlight-color: transparent;
+}
+*,
+::after,
+::before {
+  margin: 0;
+  padding: 0;
+  box-sizing: inherit;
+}
+body {
+  overflow-x: hidden;
+}
+a {
+  text-decoration: none;
+  color: inherit;
+  background-color: transparent;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-size: 100%;
+  font-weight: 400;
+}
+img {
+  display: block;
+}
+img,
+video {
+  max-width: 100%;
+  height: auto;
+}
+ol,
+ul {
+  list-style: none;
+}
+button,
+input,
+optgroup,
+select,
+textarea {
+  font: inherit;
+}
+button {
+  text-transform: none;
+  cursor: pointer;
+}
+[type="button"],
+[type="reset"],
+[type="submit"],
+button {
+  -webkit-appearance: button;
+}
+code,
+kbd,
+pre {
+  font-family: monospace, monospace;
+  font-size: inherit;
+}
+embed,
+iframe,
+object {
+  border: 0;
+  vertical-align: bottom;
+}
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+[hidden] {
+  display: none;
+}
+[aria-disabled="true"],
+[disabled] {
+  cursor: not-allowed;
+}
