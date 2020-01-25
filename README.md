@@ -1,5 +1,5 @@
 
-# thefolio
+# theportfolio
 
 **Portfolio for everyone!** 
 Live Preview - [Click Here](http://thevipinmishra.github.io/theportfolio)
