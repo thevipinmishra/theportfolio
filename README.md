@@ -4,6 +4,10 @@
 **Portfolio for everyone!** 
 Live Preview - [Click Here](http://thevipinmishra.github.io/theportfolio)
 
+This is a Portfolio theme built with HTML, CSS & JavaScript. Feel free to use it in your own portfolios.
+
+Any suggestions to improve this would be highly appreciated.
+
 ## Preview
 
 ![thefolio preview](https://raw.githubusercontent.com/thevipinmishra/theportfolio/master/preview.png "thefolio preview")
